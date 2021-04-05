@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lists</string>
+
+    <array name="listEntries">
+        <item>lions</item>
+        <item>cats</item>
+        <item>dek</item>
+        <item>pet</item>
+    </array>
+
+</resources>
