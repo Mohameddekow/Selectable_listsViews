@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
             if(position == 0){
                 startActivity(Intent(applicationContext, Lions::class.java))
             }
+
+//            make a toast on clicking a list item
             Toast.makeText(applicationContext, "you clicked " + lists[position], Toast.LENGTH_SHORT).show()
         }
     }
