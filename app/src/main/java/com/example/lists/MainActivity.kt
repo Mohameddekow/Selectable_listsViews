@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
                 startActivity(Intent(applicationContext, Lions::class.java))
             }
 
-//            make a toast on clicking a list item
+//            make a toast on clicking a list items
             Toast.makeText(applicationContext, "you clicked " + lists[position], Toast.LENGTH_SHORT).show()
         }
     }
