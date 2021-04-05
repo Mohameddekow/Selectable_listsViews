@@ -8,10 +8,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="191dp"
-        android:layout_height="153dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginTop="160dp"
-        android:text="Lions Avtivity"
+        android:text="You are Lions Avtivity because you clicked on 'lions' item"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
